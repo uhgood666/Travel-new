@@ -1,0 +1,16 @@
+C:\Users\uhgoo\source\repos\Travel\bin\Debug\Travel.exe.config
+C:\Users\uhgoo\source\repos\Travel\bin\Debug\Travel.exe
+C:\Users\uhgoo\source\repos\Travel\bin\Debug\Travel.pdb
+C:\Users\uhgoo\source\repos\Travel\obj\Debug\Travel.csproj.AssemblyReference.cache
+C:\Users\uhgoo\source\repos\Travel\obj\Debug\Travel.csproj.SuggestedBindingRedirects.cache
+C:\Users\uhgoo\source\repos\Travel\obj\Debug\Travel.Form1.resources
+C:\Users\uhgoo\source\repos\Travel\obj\Debug\Travel.Form2.resources
+C:\Users\uhgoo\source\repos\Travel\obj\Debug\Travel.Form3.resources
+C:\Users\uhgoo\source\repos\Travel\obj\Debug\Travel.Form4.resources
+C:\Users\uhgoo\source\repos\Travel\obj\Debug\Travel.Form5.resources
+C:\Users\uhgoo\source\repos\Travel\obj\Debug\Travel.Form6.resources
+C:\Users\uhgoo\source\repos\Travel\obj\Debug\Travel.Properties.Resources.resources
+C:\Users\uhgoo\source\repos\Travel\obj\Debug\Travel.csproj.GenerateResource.cache
+C:\Users\uhgoo\source\repos\Travel\obj\Debug\Travel.csproj.CoreCompileInputs.cache
+C:\Users\uhgoo\source\repos\Travel\obj\Debug\Travel.exe
+C:\Users\uhgoo\source\repos\Travel\obj\Debug\Travel.pdb
